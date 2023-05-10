@@ -9,7 +9,7 @@
 
 - 💬 Ask me about *OOPs in C++ , Basics of Python*
 
-- 📫 How to reach me *Niytikale1306@gmail.com*
+- 📫 How to reach me *niyatikale1306@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
