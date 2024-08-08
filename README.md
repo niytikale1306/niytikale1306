@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *Data Structures & Algorithm*
 
-- 💬 Ask me about *OOPs in C++ , Basics of Python*
+- 💬 Ask me about *OOPs in C++ , Basics of Python and Java*
 
 - 📫 How to reach me *niyatikale1306@gmail.com*
 
